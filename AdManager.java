@@ -1,5 +1,3 @@
-package com.tablet.whatstablet;
-
 import android.content.Context;
 import android.util.Log;
 
